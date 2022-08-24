@@ -1,0 +1,5 @@
+Credentials cache: API:B012B59C-9117-478F-AA25-BB5CBF992D75
+        Principal: duzun@42ISTANBUL.COM.TR
+
+  Issued                Expires               Principal
+Oct 18 17:01:30 2021  Oct 19 03:01:30 2021  krbtgt/42ISTANBUL.COM.TR@42ISTANBUL.COM.TR
